@@ -1,0 +1,3 @@
+﻿5. How do you go about optimizing the load time of a web page? Are there any basic strategies or practices? Tools that you use? 
+	For purposes of this question, assume we are optimizing the front end load time and that the server side calls are performing acceptably.
+

@@ -1,0 +1,1 @@
+﻿Describe one or more designs pattern that you have used in the past. What are the pros and cons of each pattern.

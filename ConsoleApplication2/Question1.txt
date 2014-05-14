@@ -1,0 +1,4 @@
+﻿1. Describe a design pattern (besides Singleton) that you have used in the past. 
+	(a) Where does it make sense to use the pattern?
+	(b) What are the pros and cons of the pattern?
+	(c) What does a basic implementation of the pattern look like?
