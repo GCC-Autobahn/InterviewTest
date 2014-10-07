@@ -1,1 +1,0 @@
-7. Describe the 'Box Model' in css. What are the CSS properties which are part of it?

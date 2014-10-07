@@ -58,7 +58,7 @@
     <Content Include="Question1.txt" />
     <Content Include="Question4.js" />
     <Content Include="Question5.txt" />
-    <Content Include="Question7.txt" />
+    <Content Include="Question7.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
