@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using NUnit.Framework;
 
 namespace ConsoleApplication2
@@ -10,7 +11,7 @@ namespace ConsoleApplication2
         //Don't fix the method! That's for other people to worry about...
         public float GetLargestNumberInList(IList<int> numbers)
         {
-            return numbers[numbers.Count - 1];
+            return numbers.Last();
         }
     }
 
